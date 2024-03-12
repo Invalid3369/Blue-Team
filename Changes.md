@@ -7,3 +7,4 @@ changes 12/03/24:
 - added all sprites made by Blue Thomson
 - BT made different varients for zombie(undeadwalker)
 - edited the goblin bullet sprite to look in the right direction
+- added vampire sprite and vampire bullet sprite made by BT
