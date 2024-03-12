@@ -8,3 +8,9 @@ changes 12/03/24:
 - BT made different varients for zombie(undeadwalker)
 - edited the goblin bullet sprite to look in the right direction
 - added vampire sprite and vampire bullet sprite made by BT
+- added player idle sprite by FD
+- added Player run sprite by FD
+- added Player Shoot sprite by FD
+- added shield sprite by FD
+- edited the vampire to shoot
+- changed the bullet for the goblin to make more difficult to dodge
