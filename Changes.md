@@ -14,3 +14,4 @@ changes 12/03/24:
 - added shield sprite by FD
 - edited the vampire to shoot
 - changed the bullet for the goblin to make more difficult to dodge
+- resized the player to work with the game (untested)
