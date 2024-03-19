@@ -17,3 +17,7 @@ changes 12/03/24:
 - resized the player to work with the game (untested)
 - FD changed attack button from spacebar to left mouse button
 - FD made and added 2 new bullet sprites
+- BT Added shield code
+- BT added shield sprite to go over the player
+- BT edited the code for the vampire and vampire bullet to have a effect
+- BT edited goblin, walker and runner hp value
