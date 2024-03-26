@@ -26,4 +26,4 @@ changes 12/03/24:
 - BT added bullet boundary
 - added lightning bullet
 - added vampire lord and bullet
-- 
+- added holy bat
