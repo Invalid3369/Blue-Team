@@ -23,3 +23,7 @@ changes 12/03/24:
 - BT edited goblin, walker and runner hp value
 - KS added new runner sprite
 - BR added bat sprite
+- BT added bullet boundary
+- added lightning bullet
+- added vampire lord and bullet
+- 
