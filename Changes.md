@@ -21,3 +21,4 @@ changes 12/03/24:
 - BT added shield sprite to go over the player
 - BT edited the code for the vampire and vampire bullet to have a effect
 - BT edited goblin, walker and runner hp value
+- KS added new runner sprite
