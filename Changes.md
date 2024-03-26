@@ -27,3 +27,4 @@ changes 12/03/24:
 - added lightning bullet
 - added vampire lord and bullet
 - added holy bat
+- added the witch sprite KS
