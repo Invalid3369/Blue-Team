@@ -22,3 +22,4 @@ changes 12/03/24:
 - BT edited the code for the vampire and vampire bullet to have a effect
 - BT edited goblin, walker and runner hp value
 - KS added new runner sprite
+- BR added bat sprite
